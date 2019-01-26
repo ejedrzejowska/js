@@ -1,3 +1,1 @@
-# JavaScriptIntroduction
-
-Exercises for SDA students
+basic js and jquery
